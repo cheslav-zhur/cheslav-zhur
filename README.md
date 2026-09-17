@@ -1,38 +1,27 @@
-### Hi there 👋
+Senior full-stack engineer 🧑‍💻  
+Backend, architecture, AI in production.
 
-I'm a full-stack engineer with focus on web3/crypto 👨‍💻
+10+ years shipping web products (TypeScript, Python, Node.js)
 
-- 🔭 I’m enjoy working with Web3, React and Node.js
-- 🌱 I’m currently learning more and more about web3
-- 💻 I'm now working at [Aspis Finance](https://aspis.finance)
+🛠️ Building [smart-city-os](https://github.com/cheslav-zhur/smart-city-os): an event-driven city-ops system with an agent that proposes and a human who confirms. A serious slice of govtech — and a way for me to get fluent in complex backend / AI patterns.
 
-<!-- - 👯 I’m looking to collaborate on good crypto projects -->
+Looking to join a serious product with a strong team / company.
 
-<!-- Your badges -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheslav-zhuravsky/)](https://www.linkedin.com/in/cheslav-zhuravsky/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/cheslav_zhur)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheslav.zhuravsky@gmail.com)](mailto:cheslav.zhuravsky@gmail.com)
+Interested in:
+- 🏙️ Smart city / govtech / public tech
+- 🏥 Medtech / healthcare
+- 🥽 VR
+- 🏗️ Large / distributed systems, highload
+- 🤖 AI infra, agents
+- 🧰 DevEx & how the company works — AI assistants, observability, processes
 
-<!-- Profile View Count and GitStats -->
-![profile views](https://komarev.com/ghpvc/?username=cheslav-zhur&style=flat)
-[![GitStats](https://img.shields.io/badge/-black?label=GitStats&style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/cheslav-zhur)
-[![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&logo=Upwork&logoColor=white&color=green&link=https://www.upwork.com/fl/~013c3e78f26326fe80)](https://www.upwork.com/fl/~013c3e78f26326fe80)
-[![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=orange)](https://gitlab.com/HappyLoL)
+📍 Ready for relocation from Oct–Nov 2026
+- 🇸🇬 Singapore
+- 🇨🇳 China
+- Gulf
+  - 🇦🇪 UAE
+  - 🇸🇦 Saudi Arabia
+  - 🇶🇦 Qatar
+  - 🇴🇲 Oman
 
-<!--
-[![cheslav-zhur's github stats](https://github-readme-stats.vercel.app/api?username=cheslav-zhur&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/cheslav-zhur)
--->
-
-<!--
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
+💼 [LinkedIn](https://www.linkedin.com/in/cheslav-zhuravsky) · 💬 [Telegram](https://t.me/cheslav_zhur) · ✉️ cheslav.zhuravsky@gmail.com
