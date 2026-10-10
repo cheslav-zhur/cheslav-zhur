@@ -7,7 +7,7 @@ Backend, architecture, AI in production.
 
 🛠️ Current focuses:
 
-1. Personal OS — actively using AI and automations in my own setup: tools and agents on top of my data:
+1. Personal OS — actively using AI and automations in my own setup: tools and agents on top of my data.
    - knowledge base — local wiki, my second brain
    - health base — medical archive, agents
    - [my-daily-digest](https://github.com/cheslav-zhur/my-daily-digest) — daily briefs/news in Telegram
@@ -18,15 +18,16 @@ Backend, architecture, AI in production.
 🕵️‍♂️ Looking to join a serious product with a strong team / company.
 
 Interested in:
+
 - 🤖 AI infra, agents
 - 🏙️ Smart city / govtech / public tech
 - 🏥 Medtech / healthcare
-- 🥽 VR
-- 🏗️ Large / distributed systems, highload
-- 🧰 DevEx & how the company works — AI assistants, observability, processes
+- 🥽 VR, AI avatars
+- 🧰 DevEx & how the company works — AI assistants, observability, processes, automations
 - ⛓️ maybe Web3
 
 📍 Ready for relocation from November 2026
+
 - 🇸🇬 Singapore
 - 🌊 Gulf area
 - 🇨🇳 China
